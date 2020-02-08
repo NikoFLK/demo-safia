@@ -1,0 +1,15 @@
+.title{
+    background-color: lime;
+    text-align:center;
+    color:red;
+}
+.wrapper{
+    padding:10px;
+    border-radius: 5px;
+    border:1px solid black;
+    margin: 50px auto;
+    width:50%;
+}
+.btn{
+    margin-top : 10px;
+}
